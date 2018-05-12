@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26209
     wikipedia: http://en.wikipedia.org/wiki/Guo_Pu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24058#----
 gutenberg_issued: '2007-12-28'
 gutenberg_type: Text
 identifiers:
