@@ -1,0 +1,33 @@
+_repo: '----_24058'
+_version: 0.1.0
+alternative_title:
+- Mu tian zi zhuan
+- Mu Tian Zi Chuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guo, Pu
+    alias: 郭璞
+    birthdate: 276
+    deathdate: 324
+    gutenberg_agent_id: '26209'
+    url: http://www.gutenberg.org/2009/agents/26209
+    wikipedia: http://en.wikipedia.org/wiki/Guo_Pu
+description: ''
+gutenberg_issued: '2007-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24058'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- China'
+- !lcsh 'Zhou Muwang, Emperor of China, active 11th century B.C.-10th century B.C.'
+- !lcc 'PL'
+- !lcsh 'Mythology, Chinese'
+title: 穆天子传
+url: http://www.gutenberg.org/ebooks/24058
